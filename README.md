@@ -1,34 +1,21 @@
-# Machine learning theory 
+# Foundations of Data Science and Machine Learning 
 
-## Interactive learning 
-* [Steven Wu's Algorithmic Foundations of Interactive Learning](https://interactive-learning-algos.github.io/)
 
-## Basics 
-### Optimization 
-* [ICML 2017 Tutorial: Recent Advances in Stochastic Convex and Non-Convex Optimization, Zeyuan Allen-Zhu](https://www.youtube.com/watch?v=jPjhiaeYruQ)
+## Books 
 
-### Statistical learning theory 
+* [Foundations of Data Science, by Avrim Blum, John Hopcroft, and Ravindran Kannan](https://www.cs.cornell.edu/jeh/book.pdf)
+* [Randomized Algorithms](https://rajsain.wordpress.com/wp-content/uploads/2013/11/randomized-algorithms-motwani-and-raghavan.pdf) by Rajeev Motwani and Prabhakar Raghavan
+* [Understanding machine learning: From theory to algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) by Shai Shalev-Shwartz and Shai Ben-David 
+* [A Distribution-Free Theory of Nonparametric Regression](http://www-leland.stanford.edu/class/ee378a/books/book1.pdf) by Gyorfi et al.  
+* [Probability and Measure](https://www.colorado.edu/amath/sites/default/files/attached-files/billingsley.pdf) by Patrick Billingsley
+* [Combinatorial Methods in Density Estimation](https://link.springer.com/book/10.1007/978-1-4613-0125-7) by Luc Devroye and Gabor Lugosi.   
+* [Probability in High Dimension](https://web.math.princeton.edu/~rvan/APC550.pdf) by Ramon van Handel.
+* [High-Dimensional Statistics: A Non-Asymptotic Viewpoint](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E) by Martin J. Wainwright
+* Martin Anthony and Peter L. Bartlett. /Neural Network Learning: Theoretical Foundations/ 
 * [Mathematical Analysis of Machine Learning Algorithms, Tong Zhang](https://www.tongzhang-ml.org/lt-book.html)
 
-
-## Reading Group Summer 2023 @ JHU ML Theory  
-
-### Bandit theory 
-* ETC algorithm
-  * [Doubling trick for an unknown horizon](https://arxiv.org/pdf/1803.06971.pdf)
-  * [On Explore-Then-Commit Strategies](https://arxiv.org/pdf/1605.08988.pdf)
-  * [Double Explore-then-Commit: Asymptotic Optimality and Beyond](https://arxiv.org/pdf/2002.09174.pdf)
-* Arm elimination 
-* UCB algorithm
-
-### RL Theory 
-* **Group reading**
-  * 06/29/23: MDP basic, sample complexity with a generative model (coarse analysis) [[notes]](https://github.com/thanhnguyentang/modern_learning_theory/blob/master/JHU-RL-Theory-Reading-S23/1_062923-MDP-basics-and-simulator-and-coarse-analysis.pdf)
-
-* **Paper reading**
-  * [Minimax Regret Bounds for Reinforcement Learning](https://arxiv.org/pdf/1703.05449.pdf)
-  * [Optimistic MLE—A Generic Model-based Algorithm for Partially Observable Sequential Decision Making](https://arxiv.org/pdf/2209.14997.pdf)
-
-
-  
-
+## Courses 
+* [Algorithmic Foundations of Learning](http://www.stats.ox.ac.uk/~rebeschi/teaching/AFoL/19/index.html) by Patrick Rebeschini, University of Oxford   
+* [Statistical methods for ML](http://www.stat.cmu.edu/~larry/=sml/)
+* [Harvard CS 229br: Advanced Topics in the theory of machine learning](https://boazbk.github.io/mltheoryseminar/cs229br.html#plan)
+* [Steven Wu's Algorithmic Foundations of Interactive Learning](https://interactive-learning-algos.github.io/)
