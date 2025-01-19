@@ -16,6 +16,6 @@
 
 ## Courses 
 * Patrick Rebeschini. _Algorithmic Foundations of Learning_. University of Oxford [\[link\]](http://www.stats.ox.ac.uk/~rebeschi/teaching/AFoL/19/index.html) 
-* Larry. _Statistical methods for ML_. CMU][\[link\]](http://www.stat.cmu.edu/~larry/=sml/)
+* Larry. _Statistical methods for ML_. CMU [\[link\]](http://www.stat.cmu.edu/~larry/=sml/)
 * Boaz Barak. _Harvard CS 229br: Advanced Topics in the theory of machine learning_. Havard [\[link\]](https://boazbk.github.io/mltheoryseminar/cs229br.html#plan)
 * Steven Wu. _Algorithmic Foundations of Interactive Learning_. CMU [\[link\]](https://interactive-learning-algos.github.io/)
