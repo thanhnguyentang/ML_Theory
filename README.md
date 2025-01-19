@@ -11,7 +11,7 @@
 * [Combinatorial Methods in Density Estimation](https://link.springer.com/book/10.1007/978-1-4613-0125-7) by Luc Devroye and Gabor Lugosi.   
 * [Probability in High Dimension](https://web.math.princeton.edu/~rvan/APC550.pdf) by Ramon van Handel.
 * [High-Dimensional Statistics: A Non-Asymptotic Viewpoint](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E) by Martin J. Wainwright
-* Martin Anthony and Peter L. Bartlett. /Neural Network Learning: Theoretical Foundations/ 
+* Martin Anthony and Peter L. Bartlett. **Neural Network Learning: Theoretical Foundations** 
 * [Mathematical Analysis of Machine Learning Algorithms, Tong Zhang](https://www.tongzhang-ml.org/lt-book.html)
 
 ## Courses 
